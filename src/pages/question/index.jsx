@@ -16,9 +16,6 @@ const Question = () => {
                 <p>C. {item.option_c}</p>
                 <p>D. {item.option_d}</p>
               </div>
-              {/* <div className="">
-                <p className="w-32 h-32 font-medium text-[#FDC700] border ">{"10s"}</p>
-              </div> */}
             </div>
           ))
         }
