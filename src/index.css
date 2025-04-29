@@ -1,1 +1,17 @@
 @import "tailwindcss";
+
+.btn_exit:hover {
+    color: #fff !important;
+}
+
+.inputs::placeholder {
+    color: #ffffff6a !important; 
+}
+
+.modal {
+    background-color: #fff !important;
+}
+
+.bg-modal {
+    background-color: black !important;
+}
